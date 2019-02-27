@@ -8,7 +8,7 @@ import java.sql.SQLException;
 import java.sql.Statement;
 import java.util.Scanner;
 
-public class ConnectURL {
+public class ConnectSQLServer {
 
     public static void main(String[] args) throws ClassNotFoundException {
 
